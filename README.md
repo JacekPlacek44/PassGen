@@ -17,7 +17,7 @@ pkg update && pkg upgrade
 - Now Install The Git And Python On Your Termux
 
 ```bash
-pkg install git && python
+pkg install git python
 ```
 
 
